@@ -1,7 +1,11 @@
-name = "123"
+name = "cf123"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "a762abde0f304e2a97db7ce6d3737a2a"
 
 #[[kv_namespaces]]
 #binding = "KV"			#KV绑定名默认不可修改
